@@ -6,8 +6,6 @@ db.sqlite3
 
 venv
 
-frontend/build
-
 frontend/node_modules
 
 __pycache__
